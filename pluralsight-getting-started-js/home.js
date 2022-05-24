@@ -1,4 +1,1 @@
-
-const price = 99.99;
-
-showMessage(price);
+showMessage('Good morning sunshine!')
