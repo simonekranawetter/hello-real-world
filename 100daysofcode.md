@@ -27,3 +27,11 @@ Signing off for tonight. Today was a good day. I know things. ~~Until I don't. A
 + Pluralsight Course on [Getting Started with Javascript](https://app.pluralsight.com/library/courses/javascript-getting-started/) Modules 5-6 and coding along.
 
 + [Eloquent Javascript](https://eloquentjavascript.net/01_values.html) Chapter 2 on Program Structure (with exercises)
+
+## Day 3 (25th of May 2022)
+
+Dear Diary,
+
+I just had to consult ~~the bible~~ Stack Overflow because I hate nested loops. That [last exercise](https://eloquentjavascript.net/02_program_structure.html#i_swb9JBtSQQ) in Eloquent JS Chapter 2 really kicked my butt. Fun fact, it's basically an easier version of [Advent of Code 2020 Day 3](https://adventofcode.com/2020/day/3), so my past faliures have come to haunt me (and that just means when I'm done with Eloquent JS I'll tackle this years Advent of Code in JS).
+
++ Pluralsight Course on [Getting Started with Javascript](https://app.pluralsight.com/library/courses/javascript-getting-started/) Module 7 and coding along.
