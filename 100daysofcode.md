@@ -35,3 +35,11 @@ Dear Diary,
 I just had to consult ~~the bible~~ Stack Overflow because I hate nested loops. That [last exercise](https://eloquentjavascript.net/02_program_structure.html#i_swb9JBtSQQ) in Eloquent JS Chapter 2 really kicked my butt. Fun fact, it's basically an easier version of [Advent of Code 2020 Day 3](https://adventofcode.com/2020/day/3), so my past faliures have come to haunt me (and that just means when I'm done with Eloquent JS I'll tackle this years Advent of Code in JS).
 
 + Pluralsight Course on [Getting Started with Javascript](https://app.pluralsight.com/library/courses/javascript-getting-started/) Module 7 and coding along.
+
+## Day 4 (26th of May 2022)
+
+Dear Diary,
+
+Fun fact, I've already learned more JS now than I've learned in my JS course for school. I FINALLY understand how to use it to manipulate DOM objects and why that's a good thing. I'm very confused about objects now. Made sure I really understood how objects work within functions instead of stressing on. Hoisting is,... insane. But now I'm done with the basics course and can focus on some more Eloquent JS. Onwards buttercup! Time to jump into Codewars and Exercism!
+
++ Pluralsight Course on [Getting Started with Javascript](https://app.pluralsight.com/library/courses/javascript-getting-started/) Module 8-10 and coding along.
