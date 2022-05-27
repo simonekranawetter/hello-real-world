@@ -43,3 +43,13 @@ Dear Diary,
 Fun fact, I've already learned more JS now than I've learned in my JS course for school. I FINALLY understand how to use it to manipulate DOM objects and why that's a good thing. I'm very confused about objects now. Made sure I really understood how objects work within functions instead of stressing on. Hoisting is,... insane. But now I'm done with the basics course and can focus on some more Eloquent JS. Onwards buttercup! Time to jump into Codewars and Exercism!
 
 + Pluralsight Course on [Getting Started with Javascript](https://app.pluralsight.com/library/courses/javascript-getting-started/) Module 8-10 and coding along.
+
+## Day 5 (27th of May 2022)
+
+Dear Diary,
+
+My teacher didn't show up in the morning for lecture, so I decided to dive into the AWS Skill builder on AWS Lambda functions. It's a tad confusing, not having seen anything in a working project, but I am hoping it's a good base. The rest of the time I decided to make sure I know the basics I've learned the past few days and crank out some exercises on exercism. Guess what I just learned. You don't need to literally return true or false when returning a boolean. HOW has noone mentioned this in the YEAR I've been studying. Or better said, how did I not find this in my year of studying. I take it all back. Doing basic exercises is amazing. It's not boring at all. I am learning all the things.
+
++ AWS SkillBuilder Course on AWS Lamda Foundatations.
+
++ [Exercism JS learning track](https://exercism.org/tracks/javascript) Starting with some basic exercises.
