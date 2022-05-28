@@ -60,6 +60,7 @@ Dear Diary,
 
 Yesterday after I was done for the day, I fell down the rabbit hole of computer science talking to some friends about the way objects and strings are handled in JS and other languages. It hurt my brain, but I have learned a ton about mutability. Since today is Saturday I am taking it slow and decided to just do a quick session on [Codewars](https://www.codewars.com). I love codewars, because I always have to look up how to solve things and it always leads to me seeing code problems somewhere else thinking "Hmm,... I've done this before!" and then flexing my weird nerd muscle by using this random thing.
 So todays session was all about strings. Barely 10 minutes to solve both, but hey, it's my first weekend in ages. (❁´◡`❁)
+P.S: Finally got Neovim to work on my VSCode! Yay! It's been a good day!
 
 + [Codewars Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d/javascript)
 
