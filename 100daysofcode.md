@@ -65,3 +65,13 @@ P.S: Finally got Neovim to work on my VSCode! Yay! It's been a good day!
 + [Codewars Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d/javascript)
 
 + [Codewars String Repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
+
+## Day 7 (29th of May 2022)
+
+Dear Diary,
+
+First of all: Weekends are great! I love weekends! And as I learned from the almighty Tener(@ClayBoone)that breaks are important and you should take them. Also sometimes staring at clounds will help you figure things out.
+
++ [Codewars You only need one - Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b/javascript)
+
++ [Codewars A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/javascript)
