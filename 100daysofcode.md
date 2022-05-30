@@ -75,3 +75,13 @@ First of all: Weekends are great! I love weekends! And as I learned from the alm
 + [Codewars You only need one - Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b/javascript)
 
 + [Codewars A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/javascript)
+
+## Day 8 (30th of May 2022)
+
+Dear Diary,
+
+I ended up being extremely busy today, so I couldn't sit down much and code. But I at least read the chapter on functions today so I can get the coding done tomorrow. Sleep is a priority over getting all the things done.
+
++ [Eloquent Javascript](https://eloquentjavascript.net/01_values.html) Chapter 3 on Functions (without exercises for now)
+
++ Still working on [Codewars Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/javascript). I honestly just wanted to code for a bit but my brain was too tired to figure it out tonight.
