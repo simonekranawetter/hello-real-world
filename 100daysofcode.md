@@ -85,3 +85,11 @@ I ended up being extremely busy today, so I couldn't sit down much and code. But
 + [Eloquent Javascript](https://eloquentjavascript.net/01_values.html) Chapter 3 on Functions (without exercises for now)
 
 + Still working on [Codewars Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/javascript). I honestly just wanted to code for a bit but my brain was too tired to figure it out tonight.
+
+## Day 9 (31st of May 2022)
+
+Dear Diary,
+
+Recursion broke my brain so much today. Until maestoso(@debashisbiswas) took some time to explain it to me so my brain was able to process it. And omg did I understand it. Like the second I understood it, not getting it seemed stupid. But it ate up half my day. Definite stack overflow in my brain there for a while. But this was great. I learned a ton.
+
++ [Eloquent Javascript](https://eloquentjavascript.net/01_values.html) Chapter 3 re-read and exercises Minimum and Is Even
