@@ -98,7 +98,7 @@ Recursion broke my brain so much today. Until maestoso(@debashisbiswas) took som
 
 Dear Diary,
 
-I realized that my pluralsight is running out in a few days, so I will be watching some more courses there the next view days. The functions course wasn't very good. Only good takeaway were rest and spread operator I guess. But that's about it. Finished the functions chapter exersises and did a quick codewars just because. 8 kyu problems are getting easy. Still have the one from a few days ago left, but it's marinating in my brain and will come to me in the shower at some point. Also, I am aware that most of those are so easy, but I am trying to catch up with a friends score and desperate times call for desperate measures. ＼（〇_ｏ）／ I should really move on to 7 kyu problems. But it's kinda nice to start having muscle memory for the easy stuff.
+I realized that my pluralsight is running out in a few days, so I will be watching some more courses there the next view days. The functions course wasn't very good. Only good takeaway were rest and spread operator I guess. But that's about it. Finished the functions chapter exercises and did a quick codewars just because. 8 kyu problems are getting easy. Still have the one from a few days ago left, but it's marinating in my brain and will come to me in the shower at some point. Also, I am aware that most of those are so easy, but I am trying to catch up with a friends score and desperate times call for desperate measures. ＼（〇_ｏ）／ I should really move on to 7 kyu problems. But it's kinda nice to start having muscle memory for the easy stuff.
 
 + Pluralsight course on [Javascript Functions](https://app.pluralsight.com/library/courses/javascript-functions/table-of-contents)
 
@@ -107,3 +107,5 @@ I realized that my pluralsight is running out in a few days, so I will be watchi
 + [Codewars Grasshopper - Personalized Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7/javascript)
 
 + [Codewars MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/javascript)
+
+P.S.: Gitkraken does weird things when I amend a commit. (Just did that to fix a typo in the last commit.) Maybe I should just git bash stuff again. It's way less confusing.
