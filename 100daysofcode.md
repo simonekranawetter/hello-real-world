@@ -129,3 +129,7 @@ Finally solved that double char codewars kata. I KNEW there was a way to solve t
 + [Codewars Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/javascript)
 
 + [Codewars Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/javascript)
+
+P.S: Oh snap. I did another one before bed and omg it broke my brain. Because the node version on codewars was one where replaceAll wasn't available yet. But here we are. Ranked up to 7kyu with this gem of a kata. Good day.
+
++ [Codewars FIXME: Replace all dots](https://www.codewars.com/kata/596c6eb85b0f515834000049/javascript)
