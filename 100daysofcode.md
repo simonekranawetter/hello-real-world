@@ -114,7 +114,8 @@ P.S.: Gitkraken does weird things when I amend a commit. (Just did that to fix a
 
 Dear Diary,
 
-One more day with pluralsight, so here I am binging all the things. At this point that's just a nice revision. I'm also starting development on a discord bot for [The Modern Polymath](https://github.com/The-Modern-Polymath). Since this is the first time I am doing a codebase from scratch, I am trying to not make the same mistakes as in other bots and building a nice config envirionment from the start. I'm also considering doing it in TS from the start. Wish me luck. Zero coding so far, just living and breathing the discord.js documentation once again.
+One more day with pluralsight, so here I am binging all the things. At this point that's just a nice revision. I'm also starting development on a discord bot for [The Modern Polymath](https://github.com/The-Modern-Polymath). Since this is the first time I am doing a codebase from scratch, I am trying to not make the same mistakes as other bots and building a nice config envirionment from the start is step one. I'm also considering doing it in TS from the start. Wish me luck. Zero coding so far, just living and breathing the discord.js documentation once again.
+
 Finally solved that double char codewars kata. I KNEW there was a way to solve this in one line. I kneeew it. But I took the lazy/easy way out and ended up solving it with a for loop. It's fine, my pride is not hurt. I'm fine. (╯°□°）╯︵ ┻━┻
 
 > **str.split("").map(c => c + c).join("")**
