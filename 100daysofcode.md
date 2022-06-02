@@ -109,3 +109,22 @@ I realized that my pluralsight is running out in a few days, so I will be watchi
 + [Codewars MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/javascript)
 
 P.S.: Gitkraken does weird things when I amend a commit. (Just did that to fix a typo in the last commit.) Maybe I should just git bash stuff again. It's way less confusing.
+
+## Day 11 (2nd of June 2022)
+
+Dear Diary,
+
+One more day with pluralsight, so here I am binging all the things. At this point that's just a nice revision. I'm also starting development on a discord bot for [The Modern Polymath](https://github.com/The-Modern-Polymath). Since this is the first time I am doing a codebase from scratch, I am trying to not make the same mistakes as in other bots and building a nice config envirionment from the start. I'm also considering doing it in TS from the start. Wish me luck. Zero coding so far, just living and breathing the discord.js documentation once again.
+Finally solved that double char codewars kata. I KNEW there was a way to solve this in one line. I kneeew it. But I took the lazy/easy way out and ended up solving it with a for loop. It's fine, my pride is not hurt. I'm fine. (╯°□°）╯︵ ┻━┻
+
+> **str.split("").map(c => c + c).join("")**
+
+(ヘ･_･)ヘ┳━┳  I'm fine. It's fine. Omg,... *of course*.
+
++ Pluralsight course on [Javascript Synthax and Operators](https://app.pluralsight.com/library/courses/javascript-syntax-operators/table-of-contents)
+
++ Pluralsight course on [Javascript Variables and Types](https://app.pluralsight.com/library/courses/javascript-variables-types/table-of-contents)
+
++ [Codewars Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/javascript)
+
++ [Codewars Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/javascript)
