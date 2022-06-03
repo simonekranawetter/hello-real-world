@@ -133,3 +133,13 @@ Finally solved that double char codewars kata. I KNEW there was a way to solve t
 P.S: Oh snap. I did another one before bed and omg it broke my brain. Because the node version on codewars was one where replaceAll wasn't available yet. But here we are. Ranked up to 7kyu with this gem of a kata. Good day.
 
 + [Codewars FIXME: Replace all dots](https://www.codewars.com/kata/596c6eb85b0f515834000049/javascript)
+
+## Day 12 (3rd of June 2022)
+
+Dear Diary,
+
+Why am I putting myself willingly through tutorial hell instead of coding? I know Pluralsight was expensive, but is this binge really worth it? One more day and we'll see. First one, kinda meh. But the second one was really interesting. Ended up coding along with it again. This was fun! Learned a ton. Still feel like I'm in tutorial overload.
+
++ Pluralsight course on [JavaScript Arrays and Collections](https://app.pluralsight.com/library/courses/javascript-arrays-collections/table-of-contents)
+
++ Pluralsight course on [Working with JavaScript Modules](https://app.pluralsight.com/library/courses/working-javascript-modules/table-of-contents)
