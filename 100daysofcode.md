@@ -140,6 +140,8 @@ Dear Diary,
 
 Why am I putting myself willingly through tutorial hell instead of coding? I know Pluralsight was expensive, but is this binge really worth it? One more day and we'll see. First one, kinda meh. But the second one was really interesting. Ended up coding along with it again. This was fun! Learned a ton. Still feel like I'm in tutorial overload.
 
+Dependabot started complaining about the pluralsight course material, so I just removed it. It's not relevant anyways. ¯\_(ツ)_/¯
+
 + Pluralsight course on [JavaScript Arrays and Collections](https://app.pluralsight.com/library/courses/javascript-arrays-collections/table-of-contents)
 
 + Pluralsight course on [Working with JavaScript Modules](https://app.pluralsight.com/library/courses/working-javascript-modules/table-of-contents)
