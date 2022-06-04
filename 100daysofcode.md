@@ -145,3 +145,9 @@ Dependabot started complaining about the pluralsight course material, so I just 
 + Pluralsight course on [JavaScript Arrays and Collections](https://app.pluralsight.com/library/courses/javascript-arrays-collections/table-of-contents)
 
 + Pluralsight course on [Working with JavaScript Modules](https://app.pluralsight.com/library/courses/working-javascript-modules/table-of-contents)
+
+## Day 13 (4th of June 2022)
+
+If I commit this before midnight, it totally counts as a green dot on my github, right? Is it cheating if it works with basically the same solution as one last week? Oh well,... It was a busy day and I needed to at least get 2 minutes of coding done today to not break the streak. ;)
+
++ [Codewars Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/javascript)
