@@ -151,3 +151,9 @@ Dependabot started complaining about the pluralsight course material, so I just 
 If I commit this before midnight, it totally counts as a green dot on my github, right? Is it cheating if it works with basically the same solution as one last week? Oh well,... It was a busy day and I needed to at least get 2 minutes of coding done today to not break the streak. ;)
 
 + [Codewars Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/javascript)
+
+## Day 14 (5th of June 2022)
+
+Turns out, starting a discord bot from scratch is quite intimidating. Reading documentation like a madwoman. But here we are. Fitting also that today Discord JS got another Update to v.13, so there's that. Still not really coding much. Quite the ugly solution to today's kata, but well, I was knee deep in documentation but wanted to code *something*.
+
++ [Codewars Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/javascript)
