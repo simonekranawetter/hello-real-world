@@ -157,3 +157,5 @@ If I commit this before midnight, it totally counts as a green dot on my github,
 Turns out, starting a discord bot from scratch is quite intimidating. Reading documentation like a madwoman. But here we are. Fitting also that today Discord JS got another Update to v.13, so there's that. Still not really coding much. Quite the ugly solution to today's kata, but well, I was knee deep in documentation but wanted to code *something*.
 
 + [Codewars Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/javascript)
+
++ Neovim Lesson 2 in the tutor (aka the fun delete commands)
