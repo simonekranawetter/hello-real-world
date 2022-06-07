@@ -159,3 +159,7 @@ Turns out, starting a discord bot from scratch is quite intimidating. Reading do
 + [Codewars Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/javascript)
 
 + Neovim Lesson 2 in the tutor (aka the fun delete commands)
+
+## Day 15 (7th of June 2022)
+
+Took a break yesterday and today was mostly spent reading Eloquent JS chapters again and researching Discord JS. No exciting new things. Just basics. I needed the day off. Hopefully back to some real coding tomorrow.
