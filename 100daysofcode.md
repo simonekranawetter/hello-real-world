@@ -163,3 +163,9 @@ Turns out, starting a discord bot from scratch is quite intimidating. Reading do
 ## Day 15 (7th of June 2022)
 
 Took a break yesterday and today was mostly spent reading Eloquent JS chapters again and researching Discord JS. No exciting new things. Just basics. I needed the day off. Hopefully back to some real coding tomorrow.
+
+## Day 16 (8th of June 2022)
+
+Aaaand Project Athena is finally a go. I learned a ton about how to write tsconfig files today. And I read more about linter rules than I ever have before. It's glorious. First couple of commits down. I'm terrified, my linter is already screaming at me that things don't have types and I love it. Lesson one, message in discord js is not a string. And imports are,... well different in TS.
+
+But I like that I am finally getting somewhere. I should really keep reading the Eloquent JS book,... I'm happy I can ask people instead of being stuck with weird youtube tutorials at least. That's something. Private repo for now, so no link, but SOON we'll get set up in the ORG and I'll finally contribute to something cool. Yay me!
