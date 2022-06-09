@@ -169,3 +169,13 @@ Took a break yesterday and today was mostly spent reading Eloquent JS chapters a
 Aaaand Project Athena is finally a go. I learned a ton about how to write tsconfig files today. And I read more about linter rules than I ever have before. It's glorious. First couple of commits down. I'm terrified, my linter is already screaming at me that things don't have types and I love it. Lesson one, message in discord js is not a string. And imports are,... well different in TS.
 
 But I like that I am finally getting somewhere. I should really keep reading the Eloquent JS book,... I'm happy I can ask people instead of being stuck with weird youtube tutorials at least. That's something. Private repo for now, so no link, but SOON we'll get set up in the ORG and I'll finally contribute to something cool. Yay me!
+
+## Day 17 (9th of June 2022)
+
+Yaml is my friend. I like yaml. Or do I? Setting up CI for Athena proves to be more difficult than I thought. Brief respite for when I had set it up without tests, but now I have 9 emails in my inbox saying that ~~I died~~ the run failed. It's fun to finally use github actions tho. But omg, I haven't learned how to set up jest yet, gimme a break will you?? (╯°□°）╯︵ ┻━┻
+
+After a call with ThatNerd (@ThatNerdSquared) we figured out how to set everything up. CI is set up and we are good to go! This was wild! Throwing packages at things to fix it,... slightly intimidating, but dependabot alerts are a future Simone problem.
+
+(ヘ･_･)ヘ┳━┳
+
+Also learned about a new [commit message style](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) today that I quite liked, so I might as well use it from now on.
