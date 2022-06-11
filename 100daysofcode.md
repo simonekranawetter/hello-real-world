@@ -179,3 +179,7 @@ After a call with ThatNerd (@ThatNerdSquared) we figured out how to set everythi
 (ヘ･_･)ヘ┳━┳
 
 Also learned about a new [commit message style](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) today that I quite liked, so I might as well use it from now on.
+
+## Day 18 (11th of June 2022)
+
+Sitting here past midnight figuring out how to get the gitattributes set up to make the line endings work. It was literally one line of code. Also, turns out, we didn't install typescript in the project. Insane. Just insane. And I learned a new vim thing that blew my mind. I need more vim in my life.
