@@ -183,3 +183,7 @@ Also learned about a new [commit message style](https://gist.github.com/joshbuch
 ## Day 18 (11th of June 2022)
 
 Sitting here past midnight figuring out how to get the gitattributes set up to make the line endings work. It was literally one line of code. Also, turns out, we didn't install typescript in the project. Insane. Just insane. And I learned a new vim thing that blew my mind. I need more vim in my life.
+
+## Day 19 (12th of June 2022)
+
+Omg the first pull request to main is now up. I can't even. So hype, so very hype! Just the fact that github actions didn't scream at me and there's that satisfying green checkmark is just,... can I frame this?
