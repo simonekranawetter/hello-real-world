@@ -187,3 +187,15 @@ Sitting here past midnight figuring out how to get the gitattributes set up to m
 ## Day 19 (12th of June 2022)
 
 Omg the first pull request to main is now up. I can't even. So hype, so very hype! Just the fact that github actions didn't scream at me and there's that satisfying green checkmark is just,... can I frame this?
+
+## Day 20 (13th of June 2022)
+
+Fixing the readme file for Athena and setting up things to move to the org repo. Things are progressing nicely. Soon I'll be able to share the repo. All that needs to be done now is merge the pull request after the last bit of review is done and then we can get started on getting the actual structure set up. Discord JS and typescript aren't really buddies, so this will be interesting. But Nerd found some really good guides.
+
+I am also throwing away my mouse for today and working on my neovim skills. My god I am slow. But it's fun to teach my fingers how to do things again. Vim is 20% remembering the commands and 80% raw finger memory. I also never learned to touch type the numbers, so I need to put some quality time into not looking on my keyboard when typing numbers. (～￣▽￣)～ Maestoso and Nerd are like command line superheros, so it's time to get some more practice in there as well. No more clicking to move around folders, better get my git bash up to par again.
+
+We ended up coding the entire afternoon and started to implement one command and fixed tests for it. I understood nothing almost. But it was really fun and I ended up with a ton of new things in my brain that I want to learn. Also, 2 new super fancy vim commands that blew my mind, so in a bit I'll format this entire file with a few buttonpresses. Hopefully. Vim is so amazing once you know what you are doing. I don't. But I plan to get there. Sooner or later. Oh and yeah, the repo is now live!
+
++ [Athena](https://github.com/The-Modern-Polymath/athena)
+
+[]~(￣▽￣)~*
