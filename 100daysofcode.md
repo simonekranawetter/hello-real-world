@@ -364,3 +364,13 @@ and yeah, the repo is now live!
 []~(￣▽￣)~*
 
 Omg, I literally pressed 6 buttons to format this entire thing! I am a God!
+
+## Day 21 (14th of June 2022)
+
+It's not coding related, but I still like to learn stuff. Learned how to admin
+an org on github today and how to use webhooks to get updates from a repo to a
+discord server. Really neat. I dig it. And Neovim-ing intensifies. I finally
+set up my path so I can open neovim from whereever. Literally the easiest thing
+to do, but I was too lazy to google before. Starting to get a tad faster with
+the commands I learned yesterday. But still, painfully slow. More JS tomorrow,
+I need to get though that book.
