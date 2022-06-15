@@ -374,3 +374,12 @@ set up my path so I can open neovim from whereever. Literally the easiest thing
 to do, but I was too lazy to google before. Starting to get a tad faster with
 the commands I learned yesterday. But still, painfully slow. More JS tomorrow,
 I need to get though that book.
+
+## Day 22 (15th of June 2022)
+
+Earlier tonight I got this message:
+
+> Stop being so hard on yourself every chance you get :).
+
+This might be the best and hardest bit of advice besides the
+"take breaks" bit. I just wanna know all the things.
