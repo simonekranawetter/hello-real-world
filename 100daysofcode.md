@@ -383,3 +383,8 @@ Earlier tonight I got this message:
 
 This might be the best and hardest bit of advice besides the
 "take breaks" bit. I just wanna know all the things.
+
+## Day 23 (17th of June 2022)
+
+I am taking the occasional day off. Today I just added a little code of conduct
+to Athena and read a bit in Eloquent JS. And so much more Neovim practice.
