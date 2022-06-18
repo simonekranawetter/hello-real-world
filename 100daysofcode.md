@@ -388,3 +388,11 @@ This might be the best and hardest bit of advice besides the
 
 I am taking the occasional day off. Today I just added a little code of conduct
 to Athena and read a bit in Eloquent JS. And so much more Neovim practice.
+
+## Day 24 (18th of June 2022)
+
+More work on Athena getting done. Today we had a meeting and got the first
+tickets started. And I picked my [first
+ticket](https://github.com/The-Modern-Polymath/athena/issues/9) to work on. But
+before getting started on that I finished the contribution guide for the bot.
+It feels satisfying to have most of the set up done now.
