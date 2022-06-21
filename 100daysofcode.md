@@ -402,3 +402,20 @@ It feels satisfying to have most of the set up done now.
 Starting to think about hosting and what would be best. Reading a ton of
 documentation on PM2. Also, I totally forgot this diary was a thing, so
 whoopsi.
+
+## Day 26 (21st of June 2022)
+
+Simone vs types. My brain hurts. Starting to implement my ticket and I swear JS
+made this so much easier than having to think about what type things are.
+(Also, the weird bugs you got in JS were glorious, so I better stop
+complaining.). I spent some quality time regex-ing again today and learned a
+thing or two on how to think like a user and specifying requirements. I also
+spent a lot of time in the TS docs, just reading up on things, because now that
+I'm actually using it, it's so confusing. Today I also got an email from my
+internship telling me a little about what our project will be about and it's
+amazing! You could say I am deluxe hype right now. I have a ton of new
+documentation to read. ヾ(＠⌒ー⌒＠)ノ
+
+Today I also learned to not to build insanely complicated things before I build
+the easiest stupid solution I can come up with. Honestly, that part is still
+hard. But I am slowly getting there.
