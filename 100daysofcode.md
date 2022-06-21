@@ -396,3 +396,9 @@ tickets started. And I picked my [first
 ticket](https://github.com/The-Modern-Polymath/athena/issues/9) to work on. But
 before getting started on that I finished the contribution guide for the bot.
 It feels satisfying to have most of the set up done now.
+
+## Day 25 (20th of June 2022)
+
+Starting to think about hosting and what would be best. Reading a ton of
+documentation on PM2. Also, I totally forgot this diary was a thing, so
+whoopsi.
