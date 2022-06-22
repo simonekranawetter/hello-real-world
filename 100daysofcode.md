@@ -419,3 +419,9 @@ documentation to read. ヾ(＠⌒ー⌒＠)ノ
 Today I also learned to not to build insanely complicated things before I build
 the easiest stupid solution I can come up with. Honestly, that part is still
 hard. But I am slowly getting there.
+
+## Day 27 (23rd of June 2022)
+
+The best ideas always happen when I'm sleeping. ThatNerd and maestoso had a
+little discussion about serverless and suddenly Nerd made a little test bot
+running on cloudflare and here we are. Hype! Other than that, slow day.
