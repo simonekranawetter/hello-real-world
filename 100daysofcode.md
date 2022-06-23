@@ -425,3 +425,12 @@ hard. But I am slowly getting there.
 The best ideas always happen when I'm sleeping. ThatNerd and maestoso had a
 little discussion about serverless and suddenly Nerd made a little test bot
 running on cloudflare and here we are. Hype! Other than that, slow day.
+
+## Day 28 (24th of June 2022)
+
+Here I am, having a genius idea for a teeny tiny bot, but omg,... the learning
+curve. But on the other hand I'm getting a lot better at setting up the basics
+for a discord bot, so that's something. ＼（〇_ｏ）／ Started doing the TS
+course on pluralsight, but it's simultaniously stuff I've already figured out
+and stuff I have no idea about, so I keep wanting to move faster. It's a
+struggle. But I am making a tiny bit of progress every day.
