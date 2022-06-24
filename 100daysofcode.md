@@ -434,3 +434,9 @@ for a discord bot, so that's something. ＼（〇_ｏ）／ Started doing the TS
 course on pluralsight, but it's simultaniously stuff I've already figured out
 and stuff I have no idea about, so I keep wanting to move faster. It's a
 struggle. But I am making a tiny bit of progress every day.
+
+## Day 29 (25th of June 2022)
+
+Midsommar! So not much coding happened today. Took a quick course with
+atlassian university on Jira. Feels like I've used it in a previous life, tho
+it's only been a year ago.
