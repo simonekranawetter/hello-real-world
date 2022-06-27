@@ -440,3 +440,13 @@ struggle. But I am making a tiny bit of progress every day.
 Midsommar! So not much coding happened today. Took a quick course with
 atlassian university on Jira. Feels like I've used it in a previous life, tho
 it's only been a year ago.
+
+## Day 30 (26th of June 2022)
+
+Finally getting my TS on. Still slowly working on the pluralsight course and
+trying to at the same time get my little sideproject going. I am trying to do
+it with cloudflare right now (because free), but I might change it to Lambda
+just because I want to learn how to do it. But for now, TS basics it is.
+
++ Pluralsight course on
+  [Typescript](https://app.pluralsight.com/library/courses/getting-started-typescript/table-of-contentshttps://app.pluralsight.com/library/courses/getting-started-typescript/table-of-contents)
