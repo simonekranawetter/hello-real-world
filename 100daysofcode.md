@@ -450,3 +450,9 @@ just because I want to learn how to do it. But for now, TS basics it is.
 
 + Pluralsight course on
   [Typescript](https://app.pluralsight.com/library/courses/getting-started-typescript/table-of-contentshttps://app.pluralsight.com/library/courses/getting-started-typescript/table-of-contents)
+
+## Day 31 (3rd of July 2022)
+
+Oh hi! This is a thing. I forgot to add a bunch of days, but they don't count.
+Today I had the best conversation with @maestoso learning all the basic things
+about config files and stuff. I now understand node packages. YAY! Progress!
