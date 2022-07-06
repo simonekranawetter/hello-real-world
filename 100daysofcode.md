@@ -456,3 +456,11 @@ just because I want to learn how to do it. But for now, TS basics it is.
 Oh hi! This is a thing. I forgot to add a bunch of days, but they don't count.
 Today I had the best conversation with @maestoso learning all the basic things
 about config files and stuff. I now understand node packages. YAY! Progress!
+
+## Day 32 (4th of July 2022)
+
+Lots of progress on secret serverless bot project.
+
+## Day 33 (5th of July 2022)
+
+Broke my pinky on my right hand. No typing for the next 3 weeks. :(
