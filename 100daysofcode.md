@@ -464,3 +464,10 @@ Lots of progress on secret serverless bot project.
 ## Day 33 (5th of July 2022)
 
 Broke my pinky on my right hand. No typing for the next 3 weeks. :(
+
+## Day 34 (28th of July 2022)
+
+I am not allowed to type with my right hand until September. Ton of rehab
+too. Minor setback and one handed querty for now it is. Reading pragmatic
+programmer and doing Pluralsight courses
+and Codecademy for now. But I'm baaack. Sort of. Half way. xD
